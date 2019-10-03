@@ -1,0 +1,22 @@
+
+body {
+    overflow-x:hidden;
+    font-family: 'Lato', sans-serif !important;
+    color: #505962 !important;
+
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size:.9rem;
+    letter-spacing: .1rem;
+    background: rgba(0,0,0,0.6)!important;
+}
+.navbar-brand img{
+    height: 2rem;
+}
+
+.navbar-nav li {
+    padding-right: .7rem;
+}
